@@ -42,3 +42,8 @@ This journal tracks my progress, technical hurdles, and engineering philosophy a
 - Fully embraced OOP by moving functions inside classes as methods, utilizing `self` to manage instance state.
 - Learned Python's magic methods (`__init__`, `__str__`, `__add__`) to elegantly construct objects and overload operators.
 - Explored Inheritance and Composition, understanding how to model `IS-A` and `HAS-A` relationships to reuse code effectively.
+
+## Phase 9: Advanced OOP and Architecture
+- Explored advanced class mechanisms: `@property` for managed attributes, `@classmethod` for alternative constructors, and data hiding principles.
+- Tackled advanced inheritance patterns including Multiple Inheritance, Mixins, and Abstract Base Classes (ABCs) to enforce architectural contracts.
+- Concluded the foundational chapters, establishing a robust engineering mindset for future projects.
