@@ -32,3 +32,8 @@ This journal tracks my progress, technical hurdles, and engineering philosophy a
 - Mastered Tuples, completing the core data structure triad. Leveraged their immutability for dictionary keys and elegant multiple-assignment.
 - Transitioned from volatile memory to persistent storage by reading and writing files.
 - Learned exception handling (`try`/`except`) to robustly manage missing files and I/O errors.
+
+## Phase 7: Classes, Objects, and Functions
+- Transitioned to Object-Oriented Programming (OOP) by creating programmer-defined types (`Point`, `Rectangle`, `Time`).
+- Explored the difference between shallow and deep copying when dealing with nested mutable objects.
+- Differentiated between pure functions (which return new objects) and modifiers (which mutate existing objects in place).
