@@ -1,0 +1,42 @@
+{
+    "title": "Python Engineering Mastery",
+    "cards": [
+        {
+            "type": "basic",
+            "question": "What is the primary difference between a List and a Tuple?",
+            "answer": "Lists are mutable, Tuples are immutable.",
+            "category": "Data Structures",
+            "difficulty": "Easy"
+        },
+        {
+            "type": "multiple_choice",
+            "question": "In Object-Oriented Architecture, what does 'HAS-A' represent?",
+            "answer": "Composition",
+            "options": ["Inheritance", "Polymorphism", "Composition", "Encapsulation"],
+            "category": "Architecture",
+            "difficulty": "Medium"
+        },
+        {
+            "type": "true_false",
+            "question": "A Pure Function can modify the arguments passed to it.",
+            "answer": false,
+            "category": "Functional Programming",
+            "difficulty": "Medium"
+        },
+        {
+            "type": "multiple_choice",
+            "question": "What is the 'Diamond Problem'?",
+            "answer": "Multiple Inheritance Ambiguity",
+            "options": ["Memory Leak", "Multiple Inheritance Ambiguity", "Infinite Recursion", "Database Deadlock"],
+            "category": "OOP",
+            "difficulty": "Hard"
+        },
+        {
+            "type": "basic",
+            "question": "TRICK QUESTION: If 'a = [1, 2]' and 'b = a', does 'b.append(3)' modify 'a'?",
+            "answer": "Yes, because lists are passed by reference (aliasing).",
+            "category": "Memory Management",
+            "difficulty": "Hard"
+        }
+    ]
+}
